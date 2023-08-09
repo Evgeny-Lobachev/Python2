@@ -19,3 +19,6 @@ def sort_files_for_dir(path=""):
                 if not os.path.exists(name_folder):
                     os.mkdir(name_folder)
                 os.replace(item, f'{name_folder}//{item}')
+
+'''part2'''
+
