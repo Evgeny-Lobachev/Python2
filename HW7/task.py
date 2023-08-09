@@ -1,15 +1,8 @@
 import os
 
-dict_folder = {'mpeg': 'Video',
-               'mp4': 'Video',
-               'flv': 'Video',
-               'doc': 'Text Documents',
-               'txt': 'Text Documents',
-               'pdf': 'Text Documents',
-               'png': 'Images',
-               'rav': 'Images',
-               'psd': 'Images',
-               'jpg': 'Images',
+dict_folder = {'mpeg': 'Video', 'mp4': 'Video', 'flv': 'Video',
+               'doc': 'Text Documents', 'txt': 'Text Documents', 'pdf': 'Text Documents',
+               'png': 'Images', 'rav': 'Images','psd': 'Images', 'jpg': 'Images',
                }
 
 
