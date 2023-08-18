@@ -1,9 +1,0 @@
-{
-    "function": "add",
-    "args": [
-        1,
-        2
-    ],
-    "kwargs": {},
-    "result": 3
-}
