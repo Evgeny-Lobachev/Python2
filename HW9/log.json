@@ -1,0 +1,18 @@
+{
+    "function": "add",
+    "args": [
+        1,
+        2
+    ],
+    "kwargs": {},
+    "result": 3
+}
+{
+    "function": "add",
+    "args": [
+        1,
+        2
+    ],
+    "kwargs": {},
+    "result": 3
+}
